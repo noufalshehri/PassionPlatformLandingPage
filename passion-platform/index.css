@@ -1,0 +1,349 @@
+
+body{
+    /*font-family: 'sukar';*/
+    font-family: 'sukar-bold', Calibri, Arial;
+    /*font-family: 'sukar-black';*/
+    text-align: right;
+    background: url("images/Group 142.svg") no-repeat top left;
+    background-size: 180%;
+    background-position-y: -200px;
+}
+/*Navigation menu*/
+.Navi{
+    margin-top: 3%;
+}
+.Navi ul div{
+    display: inline;
+    text-align: center;
+} 
+.Navi ul div a{
+    color: white;
+    font-family: 'sukar-bold';
+    font-size: 23px;
+    text-decoration: none;
+}
+.Navi ul div img{
+    width: 40px;
+    margin-bottom: 20px;
+}
+
+/*landing section*/
+.landing{
+    color: white;
+    margin-top: 15px;
+    margin-bottom: 100px;
+}
+.landing div p{
+    font-size:  23px;;
+    text-align: center;
+}
+.about{
+    margin-top: 30px;
+}
+.download-btn{
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px 10px 10px 10px ;
+    box-shadow: 3px 3px #3333334d;
+    font-size: large;
+}
+.landing div a{
+    text-decoration: none;
+    color: #707070;
+    display: block;
+}
+
+video{
+    width:100%;
+}
+/* services section*/
+.service{
+background-color: white;
+text-align: center;
+border-radius: 14px;
+padding-bottom: 3px;
+box-shadow: 3px 3px #3333334d;
+margin-bottom: 50px;
+}
+.services-section {
+    margin-bottom: 140px;
+}
+.services-section .service span{
+display: block;
+font-family: 'sukar';
+font-size: large;
+}
+.services-section img {
+width: 60px;
+height: 60px;
+margin-top: -30px;
+}
+
+/*why-passion-platform section*/
+.develop-img{
+    height: 400px ;
+}
+.why-passion-platform div h5{
+    color: #E3B344;
+    margin-top: 50px;
+}
+.why-passion-platform div ul li{
+    font-family: 'sukar';
+    font-size: large;
+}
+
+.why-passion-platform div ul{
+    list-style-type: square;
+    color:  #E3B344;
+  } 
+  .why-passion-platform div ul li span{
+color: black;  
+}
+
+/*partners section*/
+.partners-img{
+margin-bottom: 80px;
+}
+.partners-img img{
+    width: 100px;
+}
+.partners-img  div{
+ text-align: center;
+
+}
+.partners-img  div span{
+    font-family: 'sukar';
+    font-size: medium;
+
+}
+.partners-h5{
+    color:#E3B344;
+    margin-top: 8%;
+}
+
+/*offers section*/
+.offers{
+    background-color: #F0F0F0;          
+}  
+.offers h5 {
+    color:#E3B344;
+}
+.offer{
+    background-color: #F0F0F0;
+}
+.offer img {
+    height: 400px;
+}
+.offer ul li{
+    font-family: 'sukar';
+    font-size: larger;
+}
+.for-users-div{
+    padding-bottom: 40px;
+    margin-bottom: 3%;
+}
+.for-users{
+    margin-top: 7%;
+
+}
+
+/*steps section*/
+.steps{
+    margin-bottom: 10%;
+
+}
+.phone-frame{
+    height: 400px;
+    position: absolute;
+    left: 100px;
+    top: 0px;
+}
+.step-number{
+    height: 40px;
+    margin-bottom: 15px;
+}
+.app-step{
+    display: inline;
+    margin-right: 3%;
+    font-family: 'sukar';
+    font-size: large;
+    margin-bottom: 40px;
+}
+
+/*Slide Show*/
+.mySlides {display:none;}
+.slideshow img{
+    height: 380px;
+    position: absolute;
+    left: 109px;
+    top: 18px;
+    z-index: -1; 
+    margin-top: -10px;
+    border-radius: 8%;
+}
+
+/*********************/
+
+/*footer section*/
+.footer{
+    color: #CCC5C5;
+    font-size: large;
+    padding-top: 30px;
+    background: url("images/footer-icon.svg") no-repeat bottom left;
+    background-color: #373737;
+    background-size: 20% ;
+    border-top-style: solid;
+    border-top-color: #E3B344;
+    border-top-width: medium;
+    
+}
+
+.footer div div a{
+text-decoration: none;
+color: #CCC5C5;
+}
+.paying-methods{
+    height: 20%;
+    margin-bottom: 15px;
+}
+.connection-methods{
+    height: 20%;
+}
+.download-icon{
+    height: 25%;
+    margin-top: 20px;
+}
+.support-btn a{
+    text-decoration: none;
+    color: #333!important;
+}
+.support-btn{
+    z-index: 99999;
+    background:#E3B344;
+    overflow: hidden;
+    color: #333!important;
+    padding: 5px 20px;
+    font-weight: 600;
+    position: fixed;
+    right: 10px;
+    bottom: 0;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    box-shadow: 0 2px 15px 0 rgba(0,0,0,0.3)!important;
+}
+
+/* Media Query*/
+@media screen and (min-width: 1400px) {
+    .last-partner-span {
+        margin-right:40%;     
+    }
+
+    }
+  @media screen and (min-width: 1600px) {
+    .last-partner-span {
+        margin-right:40%;  
+    } 
+    body{
+        background-size: 150%  ;
+        }
+}
+  @media screen and (min-width: 1900px) {
+    .last-partner-span {
+        margin-right:40%;    }
+    }
+
+  @media only screen and (min-width:1000px) {
+    .last-partner-span {
+        margin-right:40%;    }
+
+
+    }
+
+@media only screen and (max-width: 1024px) {
+        .Navi ul div a{
+            font-size: large;
+        }  
+        .landing div p{
+            font-size: large;
+            text-align: center !important;
+
+        }
+        .download-btn{
+            font-size: large;
+        }
+        body{
+            background-position-x: -90px;
+            background-position-y: 0px;
+            background-size: 260%  ;
+
+            }
+            .services-section {
+                margin-bottom: 30px;
+            }
+            .develop-img{
+                height: 300px ;
+            }
+            .offer img {
+                height: 300px ;
+            }
+      }
+      @media only screen and (max-width: 600px) {
+
+        body{
+            background-position-x: -90px;
+            background-position-y: 0px;
+            background-size: 400%  ;
+
+            }
+            .services-section {
+                margin-bottom: 0px;
+            }
+      }
+      
+      @media only screen and (max-width: 862px) {
+        .Navi ul div a{
+            font-size: small;
+        }  
+        .landing div p{
+            text-align: center !important;
+        }
+        .download-btn{
+            font-size: small;
+        }
+        body{
+            font-size: small;
+        }
+      }
+    @media only screen and (max-width: 400px) {
+        .landing div p{
+            text-align: center !important;
+            font-size: small;
+        }
+
+        body{
+            font-size: small; 
+        }
+    }
+    @media only screen 
+    and (min-device-width : 790px) 
+    and (max-device-width : 1070px) {
+
+        body{
+            background-position-x: -90px;
+            background-position-y: 0px;
+            background-size: 200%  ;
+
+            }
+    }
+    @media only screen 
+    and (min-device-width : 1024px) 
+    and (max-device-width : 1030px) {
+
+    body{
+        background-position-x: -90px;
+        background-position-y: 0px;
+        background-size: 178%  ;
+
+        }
+    }

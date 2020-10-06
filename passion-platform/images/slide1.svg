@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-iPhone_X_XS_11_Pro_14);
+      }
+
+      .cls-2 {
+        stroke: #000;
+        stroke-width: 0.2px;
+        font-size: 15px;
+        font-family: SegoeUI-Semibold, Segoe UI;
+        letter-spacing: -0.011em;
+      }
+
+      .cls-2, .cls-8 {
+        font-weight: 600;
+      }
+
+      .cls-3 {
+        fill: #ffc000;
+      }
+
+      .cls-4, .cls-5 {
+        font-size: 20px;
+      }
+
+      .cls-4, .cls-7 {
+        font-family: Sukar-Bold, Sukar;
+        font-weight: 700;
+      }
+
+      .cls-10, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-6 {
+        fill: #f3f3f3;
+      }
+
+      .cls-7 {
+        fill: #0c0101;
+        font-size: 16px;
+      }
+
+      .cls-8, .cls-9 {
+        fill: #919191;
+      }
+
+      .cls-8 {
+        font-size: 14px;
+        font-family: Cairo-SemiBold, Cairo;
+      }
+
+      .cls-9 {
+        stroke: #919191;
+        stroke-width: 0.7px;
+      }
+    </style>
+    <clipPath id="clip-iPhone_X_XS_11_Pro_14">
+      <rect width="375" height="812"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_X_XS_11_Pro_14" data-name="iPhone X/XS/11 Pro – 14" class="cls-1">
+    <rect class="cls-10" width="375" height="812"/>
+    <g id="_iPhone_X_Bars_Status_Default" data-name="• iPhone X / Bars / Status / Default" transform="translate(16 11)">
+      <g id="Action" transform="translate(0.894)">
+        <text id="_Time" data-name="↳ Time" class="cls-2"><tspan x="13.914" y="16">9:41</tspan></text>
+      </g>
+      <g id="Container" transform="translate(274 2)">
+        <g id="Battery" transform="translate(43 0.6)">
+          <path id="Rectangle" d="M3.589,11.5a4.073,4.073,0,0,1-2.156-.374A2.532,2.532,0,0,1,.374,10.067,4.065,4.065,0,0,1,0,7.911V3.589A4.065,4.065,0,0,1,.374,1.433,2.532,2.532,0,0,1,1.433.374,4.065,4.065,0,0,1,3.589,0H18.41a4.066,4.066,0,0,1,2.157.374,2.532,2.532,0,0,1,1.058,1.058A4.08,4.08,0,0,1,22,3.589V7.911a4.08,4.08,0,0,1-.374,2.156,2.532,2.532,0,0,1-1.058,1.058,4.077,4.077,0,0,1-2.157.374ZM1.9,1.256a1.535,1.535,0,0,0-.649.649A3.322,3.322,0,0,0,1,3.589V7.911A3.322,3.322,0,0,0,1.256,9.6a1.523,1.523,0,0,0,.649.648,3.309,3.309,0,0,0,1.685.257H18.41a3.311,3.311,0,0,0,1.686-.257,1.546,1.546,0,0,0,.648-.648A3.322,3.322,0,0,0,21,7.911V3.589A3.322,3.322,0,0,0,20.744,1.9a1.548,1.548,0,0,0-.648-.649A3.324,3.324,0,0,0,18.41,1H3.589A3.322,3.322,0,0,0,1.9,1.256ZM23,3.69s1.5.763,1.5,2-1.5,2-1.5,2Z" transform="translate(0 0.56)"/>
+          <rect id="Rectangle-2" data-name="Rectangle" width="18" height="7.667" rx="1.6" transform="translate(2 2.477)"/>
+        </g>
+        <path id="Combined_Shape" data-name="Combined Shape" d="M15.3,10.7a1.2,1.2,0,0,1-1.2-1.2V1.2A1.2,1.2,0,0,1,15.3,0h.6a1.2,1.2,0,0,1,1.2,1.2V9.5a1.2,1.2,0,0,1-1.2,1.2Zm-4.7,0A1.2,1.2,0,0,1,9.4,9.5V3.6a1.2,1.2,0,0,1,1.2-1.2h.6a1.2,1.2,0,0,1,1.2,1.2V9.5a1.2,1.2,0,0,1-1.2,1.2ZM6,10.7A1.2,1.2,0,0,1,4.8,9.5V5.9A1.2,1.2,0,0,1,6,4.7h.6A1.2,1.2,0,0,1,7.8,5.9V9.5a1.2,1.2,0,0,1-1.2,1.2Zm-4.8,0A1.2,1.2,0,0,1,0,9.5V7.9A1.2,1.2,0,0,1,1.2,6.7h.6A1.2,1.2,0,0,1,3,7.9V9.5a1.2,1.2,0,0,1-1.2,1.2Z" transform="translate(0.5 1.6)"/>
+        <path id="Wi-Fi" d="M7.7,11.057a.315.315,0,0,1-.223-.094L5.462,8.932a.317.317,0,0,1,.01-.461,3.451,3.451,0,0,1,4.457,0,.312.312,0,0,1,.1.228.319.319,0,0,1-.095.233L7.924,10.964A.315.315,0,0,1,7.7,11.057Zm3.537-3.567a.307.307,0,0,1-.215-.086,4.945,4.945,0,0,0-6.641,0A.311.311,0,0,1,3.945,7.4L2.78,6.222a.325.325,0,0,1,0-.463,7.22,7.22,0,0,1,9.834,0,.325.325,0,0,1,0,.463L11.459,7.4A.312.312,0,0,1,11.237,7.491ZM13.92,4.783a.31.31,0,0,1-.217-.088,8.714,8.714,0,0,0-12.006,0,.311.311,0,0,1-.218.088.306.306,0,0,1-.22-.092L.094,3.515a.325.325,0,0,1,0-.46,10.989,10.989,0,0,1,15.206,0,.324.324,0,0,1,0,.46L14.14,4.691A.306.306,0,0,1,13.92,4.783Z" transform="translate(22.6 1.4)"/>
+      </g>
+    </g>
+    <rect id="Rectangle_154" data-name="Rectangle 154" class="cls-3" width="31" height="4" rx="2" transform="translate(23 58)"/>
+    <rect id="Rectangle_155" data-name="Rectangle 155" class="cls-3" width="15" height="4" rx="2" transform="translate(23 67)"/>
+    <text id="إضافة_خدمة" data-name="إضافة خدمة" class="cls-4" transform="translate(188 71)"><tspan x="-50.894" y="0">إضافة خدمة</tspan></text>
+    <g id="Group_525" data-name="Group 525" transform="translate(6 326)">
+      <rect id="Rectangle_102" data-name="Rectangle 102" class="cls-3" width="335" height="55" rx="12" transform="translate(14 322)"/>
+      <text id="إضافة" class="cls-5" transform="translate(182 358)"><tspan x="-25.049" y="0">إضافة</tspan></text>
+    </g>
+    <g id="Group_56864" data-name="Group 56864" transform="translate(0 -268)">
+      <g id="Group_54707" data-name="Group 54707" transform="translate(3 -100)">
+        <rect id="Rectangle_100" data-name="Rectangle 100" class="cls-6" width="335" height="47" rx="12" transform="translate(17 511)"/>
+      </g>
+      <text id="الخدمة_الرئيسية" data-name="الخدمة الرئيسية" class="cls-7" transform="translate(301 398)"><tspan x="-53.766" y="0">الخدمة الرئيسية</tspan></text>
+      <text id="التصميم" class="cls-8" transform="translate(315 440)"><tspan x="-24.934" y="0">التصميم</tspan></text>
+    </g>
+    <g id="Group_56864-2" data-name="Group 56864" transform="translate(0 -170)">
+      <g id="Group_54707-2" data-name="Group 54707" transform="translate(3 -100)">
+        <rect id="Rectangle_100-2" data-name="Rectangle 100" class="cls-6" width="335" height="47" rx="12" transform="translate(17 511)"/>
+      </g>
+      <text id="الخدمة_الفرعية" data-name="الخدمة الفرعية" class="cls-7" transform="translate(305 398)"><tspan x="-50.434" y="0">الخدمة الفرعية</tspan></text>
+      <text id="تصميم_جرافيك" data-name="تصميم جرافيك" class="cls-8" transform="translate(297 440)"><tspan x="-42.77" y="0">تصميم جرافيك</tspan></text>
+    </g>
+    <g id="Group_56864-3" data-name="Group 56864" transform="translate(0 -72)">
+      <g id="Group_54707-3" data-name="Group 54707" transform="translate(3 -100)">
+        <rect id="Rectangle_100-3" data-name="Rectangle 100" class="cls-6" width="335" height="47" rx="12" transform="translate(17 511)"/>
+      </g>
+      <text id="إسم_الخدمة" data-name="إسم الخدمة" class="cls-7" transform="translate(314 398)"><tspan x="-41.406" y="0">إسم الخدمة</tspan></text>
+      <text id="تصميم_منازل" data-name="تصميم منازل" class="cls-8" transform="translate(302 440)"><tspan x="-37.968" y="0">تصميم منازل</tspan></text>
+    </g>
+    <g id="Group_56864-4" data-name="Group 56864" transform="translate(0 26)">
+      <g id="Group_54707-4" data-name="Group 54707" transform="translate(3 -100)">
+        <rect id="Rectangle_100-4" data-name="Rectangle 100" class="cls-6" width="335" height="47" rx="12" transform="translate(17 511)"/>
+      </g>
+      <text id="السعر" class="cls-7" transform="translate(334 398)"><tspan x="-20.797" y="0">السعر</tspan></text>
+      <text id="ر.س" class="cls-8" transform="translate(302 440)"><tspan x="-12.264" y="0">ر.س</tspan></text>
+      <text id="_550" data-name="550" class="cls-8" transform="translate(328 440)"><tspan x="-11.76" y="0">550</tspan></text>
+    </g>
+    <g id="Group_56864-5" data-name="Group 56864" transform="translate(0 124)">
+      <g id="Group_54707-5" data-name="Group 54707" transform="translate(3 -100)">
+        <rect id="Rectangle_100-5" data-name="Rectangle 100" class="cls-6" width="335" height="47" rx="12" transform="translate(17 511)"/>
+      </g>
+      <text id="الوصف" class="cls-7" transform="translate(331 398)"><tspan x="-23.902" y="0">الوصف</tspan></text>
+      <text id="تصميم_فيلا_على_برنامج_اليستريتور" data-name="تصميم فيلا على برنامج اليستريتور" class="cls-8" transform="translate(243 440)"><tspan x="-96.488" y="0">تصميم فيلا على برنامج اليستريتور</tspan></text>
+    </g>
+    <rect id="Home_Indicator" data-name="Home Indicator" width="141" height="5" rx="2.5" transform="translate(117.5 797)"/>
+    <g id="back_1_" data-name="back (1)" transform="translate(39.267 274.315) rotate(-90)">
+      <g id="Group_54162" data-name="Group 54162" transform="translate(102.298 0)">
+        <path id="Path_200583" data-name="Path 200583" class="cls-9" d="M103.623,7.14l6.2-6.2a.549.549,0,0,0-.777-.777l-6.59,6.59a.549.549,0,0,0,0,.777l6.59,6.59a.549.549,0,0,0,.777-.777Z" transform="translate(-102.298 0)"/>
+      </g>
+    </g>
+    <g id="back_1_2" data-name="back (1)" transform="translate(39.267 373.315) rotate(-90)">
+      <g id="Group_54162-2" data-name="Group 54162" transform="translate(102.298 0)">
+        <path id="Path_200583-2" data-name="Path 200583" class="cls-9" d="M103.623,7.14l6.2-6.2a.549.549,0,0,0-.777-.777l-6.59,6.59a.549.549,0,0,0,0,.777l6.59,6.59a.549.549,0,0,0,.777-.777Z" transform="translate(-102.298 0)"/>
+      </g>
+    </g>
+  </g>
+</svg>
